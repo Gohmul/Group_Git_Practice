@@ -1,7 +1,6 @@
 {
   "development": {
     "database": "group_practice_development",
-    "username": "Yeet",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
